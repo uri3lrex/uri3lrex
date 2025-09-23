@@ -28,7 +28,7 @@
 - 🚀 **Lunar Rover Communication System** – Simulated secure comms with latency & packet-loss resilience, achieving 20% higher data delivery.  
 - 🎮 **Morse Code Learning Game** – Developed in C + ARM Assembly on Raspberry Pi Pico, boosting engagement with playful UI.  
 
-👉 [See all repositories here →]([https://github.com/uri3lrex](https://github.com/uri3lrex?tab=repositories))  
+👉 [See all repositories here →](https://github.com/uri3lrex?tab=repositories)  
 
 ---
 
