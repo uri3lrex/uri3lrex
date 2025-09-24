@@ -25,7 +25,7 @@
 ## 📌 Featured Projects  
 - 🔐 **Cybersecurity Internship @ CRH (Fortune 500)** – Designed a Power BI + Asana dashboard used globally for NIST-aligned project tracking.  
 - 🤖 **Amazon SageMaker ML Pipeline** – Built an end-to-end ML workflow with AWS Glue + Athena, improving forecasting accuracy by 15%.  
-- 🚀 **Lunar Rover Communication System** – Simulated secure comms with latency & packet-loss resilience, achieving 20% higher data delivery.  
+- 🚀 **[Lunar Rover Communication System](https://github.com/uri3lrex/lunar_rover_threading_work)** – Simulated secure comms with latency & packet-loss resilience, achieving 20% higher data delivery.  
 - 🎮 **Morse Code Learning Game** – Developed in C + ARM Assembly on Raspberry Pi Pico, boosting engagement with playful UI.  
 
 👉 [See all repositories here →](https://github.com/uri3lrex?tab=repositories)  
