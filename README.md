@@ -30,6 +30,9 @@
 
 👉 [See all repositories here →](https://github.com/uri3lrex?tab=repositories)  
 
+## 📌 Analysis
+- 📉 **[Open Source Analysis of Streamlit](https://github.com/uri3lrex/opensourceanalysis_streamlit)** - This project documents my analysis of the Streamlit repository, focusing on maintainability, performance, testing, and CI/CD practices. The work involved profiling 7,600+ files, running static analysis tools, and executing targeted memory and runtime tests.
+
 ---
 
 ## 🌸 About Me  
