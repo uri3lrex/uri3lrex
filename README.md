@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 What I’m Working On  
-- 🎨 **Ren’Py Visual Novel** – crafting interactive storytelling with custom scripts, art, and UI design.  
+- 🎨 [**Oracle Machine Learning course**](https://github.com/uri3lrex/machinelearning_oracle) – learning the fundamentals in AI along with creating machine learning and deep learning models through jupyter notebooks hosted through Anaconda.  
 - 🌱 [**Sustainable To-Do List App**](https://github.com/uri3lrex/to-do-list-java) – experimenting with green coding practices + lightweight cloud integration.  
 - 🌐 **Codecrafters HTTP Server** – deep-diving into low-level networking and server fundamentals.  
 
