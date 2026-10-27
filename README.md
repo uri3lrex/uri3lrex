@@ -8,7 +8,7 @@
 
 ## 🚀 What I’m Working On  
 - 🎨 [**Oracle Machine Learning course**](https://github.com/uri3lrex/machinelearning_oracle) – learning the fundamentals in AI along with creating machine learning and deep learning models through jupyter notebooks hosted through Anaconda.  
-- 🌱 [**Sustainable To-Do List App**](https://github.com/uri3lrex/to-do-list-java) – experimenting with green coding practices + lightweight cloud integration.  
+- 🌱 [**Qiskit Programming**](https://github.com/uri3lrex/Qiskit-Programming) – learning different Quantum algorithms and coding practices.
 - 🌐 **Codecrafters HTTP Server** – deep-diving into low-level networking and server fundamentals.
 - 🌦️ [**RESTful API driven Weather App**](https://github.com/uri3lrex/rest_server_assignment1) - Node.js based REST server with a Vue Front-end using local computing environment
 
